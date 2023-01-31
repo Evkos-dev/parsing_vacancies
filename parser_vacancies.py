@@ -144,8 +144,8 @@ def check_vacancies_update_from_vk():
 
 
 def main():
-    # get_first_vacancies_from_yandex() эту функцию нужно использовать один раз для заполнения json начальными данными
-    # get_first_vacancies_from_vk() эту функцию нужно использовать один раз для заполнения json начальными данными
+    # get_first_vacancies_from_yandex()  # эту функцию нужно использовать один раз для заполнения json начальными данными
+    # get_first_vacancies_from_vk()  # эту функцию нужно использовать один раз для заполнения json начальными данными
     check_vacancies_update_from_yandex()
     check_vacancies_update_from_vk()
 
