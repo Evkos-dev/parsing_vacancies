@@ -12,7 +12,7 @@
 
 `git clone https://github.com/Evkos-dev/parsing_vacancies.git`
 
-`cd parsing_vacamcies`
+`cd parsing_vacancies`
 
 Cоздать и активировать виртуальное окружение:
 
